@@ -12,6 +12,7 @@ class app{
                 this.Bubble = new Bubble();
             }
         })
+
     }
 }
 
